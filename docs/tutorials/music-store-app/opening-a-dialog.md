@@ -7,7 +7,7 @@ import MusicStoreDialogOpenedScreenshot from '/img/tutorials/music-store-app/ope
 
 # Open a Dialog
 
-On this page you will learn how to use _ReactiveUI_ to manage another window in your app. The new window will eventually contain a search facility, and a button to add one of the album covers found to a list in the main window.  This new window will be opened as a dialog - that is it will prevent activity in the main window while it is showing.
+On this page you will learn how to use _ReactiveUI_ to manage another window in your app. The new window will eventually contain a search facility, and a button to add one of the album covers found to a list in the main window.  This new window will be opened as a dialog - this will prevent activity in the main window while it is showing.
 
 ## Add a New Dialog Window
 
